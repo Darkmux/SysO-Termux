@@ -65,7 +65,7 @@ Es una herramienta que genera dominios maliciosos unicode para IDN Homograph Att
 
 [02]💲sherlock
 
-s una herramienta que busca cuentas en redes sociales a través de un nombre de usuario de nuestra elección.
+Es una herramienta que busca cuentas en redes sociales a través de un nombre de usuario de nuestra elección.
 
 [03]💲ScorpFish
 
